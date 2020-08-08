@@ -1,4 +1,7 @@
 # Programs
+CS 371 - Software Development
+Lab 1
+
 Base code for program assignments in Software Development (C S 371). 
 
 ## Program 1 and Program 2
